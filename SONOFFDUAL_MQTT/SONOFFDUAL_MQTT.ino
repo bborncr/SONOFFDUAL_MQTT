@@ -6,7 +6,6 @@
 #include <EEPROM.h>
 #include "password.inc"
 
-//#define RELAY 12
 #define INDICATOR 13
 #define RELAY0 0x01
 #define RELAY1 0x02
